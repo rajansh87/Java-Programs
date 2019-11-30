@@ -1,0 +1,4 @@
+interface DQuack
+{
+void quack();
+}

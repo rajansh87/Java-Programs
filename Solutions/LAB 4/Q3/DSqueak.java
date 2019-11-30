@@ -1,0 +1,4 @@
+interface DSqueak
+{
+void squeak();
+}
